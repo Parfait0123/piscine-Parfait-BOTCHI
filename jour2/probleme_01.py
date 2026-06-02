@@ -94,4 +94,4 @@ aire_ABC = calcul_aire(A,B,C)
 aire_ADC = calcul_aire(A,C,D)
 aire_totale = aire_ABC + aire_ADC
 
-print(f"\n Aire du quadrilatère ABCD : {aire_totale:.2f}")
+print(f"\n Aire du quadrilatère ABCD : {aire_totale:.2f}")#Revise le  Jour3
